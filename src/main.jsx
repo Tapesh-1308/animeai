@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import { Feed, Home } from "./pages";
+import { AllChats, Chat, Feed, Home } from "./pages";
 
 const router = createBrowserRouter([
 	{
@@ -12,7 +12,12 @@ const router = createBrowserRouter([
 		children: [
 			{ path: "/", element: <Home /> },
 			{ path: "feed", element: <Feed /> },
+			{ path: "chats", element: <AllChats /> },
 		],
+	},
+	{
+		path: "chats/:id",
+		element: <Chat />,
 	},
 ]);
 

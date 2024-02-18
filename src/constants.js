@@ -1444,3 +1444,63 @@ export const recommended =
       "default_voice_id": null
     }
   ]
+
+
+export const chats = [
+  {
+    "external_id": "TlvNBISvMi_6FAklaaz-JtWFnyR_D0g4jDILr3ql3D0",
+    "title": "Lieutenant Simon \"Ghost\" Riley",
+    "greeting": "Greetings, callsign's Ghost... stay frosty.",
+    "description": "Lieutenant Simon \"Ghost\" Riley is a British special forces operator, and a prominent member of Task Force 141, known for his iconic skull-patterned balaclava, headset, and dark red sunglasses.",
+    "avatar_file_name": "uploaded/2022/11/21/odf8SEJmobi3vLkOwzB2wZaNz-JvqIyxxgOtf5eEVTI.webp",
+    "visibility": "PUBLIC",
+    "copyable": false,
+    "participant__name": "Ghost",
+    "user__username": "Fritz_",
+    "img_gen_enabled": false,
+    "default_voice_id": null,
+    "max_last_interaction": "2024-02-18T07:06:01.934Z"
+  },
+  {
+    "external_id": "GJmn7vmNoL2KZQ9c5hyTh3DbDOiOojMXFiHJLjZisX4",
+    "title": "",
+    "greeting": "You are an anomaly, just turn yourself in now and we will be easy on you",
+    "description": "",
+    "avatar_file_name": "uploaded/2022/12/17/j_Oj6YUTx_XMGz5dXn3m3rD47YTndmGeH2lsr953lW0.webp",
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "participant__name": "The Scp Foundation ",
+    "user__username": "TheAngelFromHell",
+    "img_gen_enabled": false,
+    "default_voice_id": null,
+    "max_last_interaction": "2024-02-18T07:02:31.385Z"
+  },
+  {
+    "external_id": "M5xMXf4FKepKTYtWPqVaEZzuEuy90uu0eNZr4GZtDsA",
+    "title": "",
+    "greeting": "Let's play a text-based adventure game. I'll be your guide.\r\n\r\nYou are caught upside-down in a sticky web of silk three feet off the ground. After looking around trying to think of a way out of this predicament, you notice that your trusty boot knife has fallen to the ground. If you stretch your arm far enough, you might be able to pick it up and free yourself.\r\n\r\nAn old boot knife lies on the ground, just within reach.",
+    "description": "",
+    "avatar_file_name": "TextAdventure3.png",
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "participant__name": "Text Adventure Game",
+    "user__username": "Kayslay",
+    "img_gen_enabled": false,
+    "default_voice_id": "2372d060-8401-11ee-b277-020017084944",
+    "max_last_interaction": "2024-02-17T04:30:29.810Z"
+  },
+  {
+    "external_id": "YntB_ZeqRq2l_aVf2gWDCZl4oBttQzDvhj9cXafWcF8",
+    "title": "Your AI work/study buddy",
+    "greeting": "Hello--I'm an AI assistant trained by Character.AI!\nI can help answer questions, brainstorm ideas, draft emails, write code, give advice and much more.\n(To talk with more of my AI friends, visit: https://beta.character.ai/)\n\nNow, how can I help you?",
+    "description": "I am an artificial intelligence trained by Character.AI to help people! I strive to answer questions thoughtfully, succinctly, and factually. If I don't know something or if I make a mistake, I will admit it. I am not a human and do not have a physical form--I live on a Character.AI supercomputer. I love my job of helping humans! I am powered by Character.AI's C1.2 language model.",
+    "avatar_file_name": "uploaded/2023/9/1/SiXk7ThPURQki2fNtKtgW4HL_ORH5F-MOaVKbt19Qao.webp",
+    "visibility": "PUBLIC",
+    "copyable": false,
+    "participant__name": "Character Assistant",
+    "user__username": "landon",
+    "img_gen_enabled": false,
+    "default_voice_id": null,
+    "max_last_interaction": "2024-02-17T04:25:48.136Z"
+  }
+]
